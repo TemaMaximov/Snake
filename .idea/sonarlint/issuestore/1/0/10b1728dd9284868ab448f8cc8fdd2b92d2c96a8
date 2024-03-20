@@ -1,0 +1,10 @@
+
+‚
+java:S1319"gThe type of "apples" should be an interface such as "List" rather than the implementation "LinkedList".(·‹Ìúÿÿÿÿ
+}
+java:S1319"gThe type of "apples" should be an interface such as "List" rather than the implementation "LinkedList".(¨¢Ã›
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Æ„¤ûúÿÿÿÿ
+B
+java:S1948"'Make "snake" transient or serializable.(ôÃ¯Ãÿÿÿÿÿ
+=
+java:S1948"(Make "apples" transient or serializable.(ª¯“

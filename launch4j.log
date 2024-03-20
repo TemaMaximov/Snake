@@ -1,0 +1,312 @@
+
+
+Version:	3.50
+CmdLine:	D:\MyJavaProjects\Snake\Snake.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.006.000_022
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Microchip\xc8\v2.40\bin;C:\Program Files\Microsoft Network Monitor 3\;C:\Program Files\Git\cmd;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Users\artma\AppData\Local\Microsoft\WindowsApps;C:\Users\artma\.dotnet\tools;C:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jre1.8.0_51\bin
+JRE paths:	;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Microchip\xc8\v2.40\bin;C:\Program Files\Microsoft Network Monitor 3\;C:\Program Files\Git\cmd;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Users\artma\AppData\Local\Microsoft\WindowsApps;C:\Users\artma\.dotnet\tools;C:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jre1.8.0_51\bin
+Check launcher:	C:\Program Files (x86)\VMware\VMware Workstation\bin\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microchip\xc8\v2.40\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft Network Monitor 3\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft SQL Server\110\Tools\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Users\artma\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\artma\.dotnet\tools\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jre1.8.0_51\bin\javaw.exe (OK)
+Version string: 1.008.000_051 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jre1.8.0_51\bin\javaw.exe
+Launcher args:	-jar "D:\MyJavaProjects\Snake\Snake.exe"
+Args length:	40/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	D:\MyJavaProjects\Snake\Snake.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000_051
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Microchip\xc8\v2.40\bin;C:\Program Files\Microsoft Network Monitor 3\;C:\Program Files\Git\cmd;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Users\artma\AppData\Local\Microsoft\WindowsApps;C:\Users\artma\.dotnet\tools;C:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jre1.8.0_51\bin
+JRE paths:	;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Microchip\xc8\v2.40\bin;C:\Program Files\Microsoft Network Monitor 3\;C:\Program Files\Git\cmd;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Users\artma\AppData\Local\Microsoft\WindowsApps;C:\Users\artma\.dotnet\tools;C:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jre1.8.0_51\bin
+Check launcher:	C:\Program Files (x86)\VMware\VMware Workstation\bin\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microchip\xc8\v2.40\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft Network Monitor 3\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft SQL Server\110\Tools\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Users\artma\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\artma\.dotnet\tools\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jre1.8.0_51\bin\javaw.exe (OK)
+Version string: 1.008.000_051 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jre1.8.0_51\bin\javaw.exe
+Launcher args:	-jar "D:\MyJavaProjects\Snake\Snake.exe"
+Args length:	40/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	D:\MyJavaProjects\Snake\Snake.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000_051
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Microchip\xc8\v2.40\bin;C:\Program Files\Microsoft Network Monitor 3\;C:\Program Files\Git\cmd;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Users\artma\AppData\Local\Microsoft\WindowsApps;C:\Users\artma\.dotnet\tools;C:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jre1.8.0_51\bin
+JRE paths:	;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Microchip\xc8\v2.40\bin;C:\Program Files\Microsoft Network Monitor 3\;C:\Program Files\Git\cmd;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Users\artma\AppData\Local\Microsoft\WindowsApps;C:\Users\artma\.dotnet\tools;C:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jre1.8.0_51\bin
+Check launcher:	C:\Program Files (x86)\VMware\VMware Workstation\bin\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microchip\xc8\v2.40\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft Network Monitor 3\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft SQL Server\110\Tools\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Users\artma\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\artma\.dotnet\tools\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jre1.8.0_51\bin\javaw.exe (OK)
+Version string: 1.008.000_051 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jre1.8.0_51\bin\javaw.exe
+Launcher args:	-jar "D:\MyJavaProjects\Snake\Snake.exe"
+Args length:	40/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	D:\MyJavaProjects\Snake\Snake.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.008.000_051
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Microchip\xc8\v2.40\bin;C:\Program Files\Microsoft Network Monitor 3\;C:\Program Files\Git\cmd;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Users\artma\AppData\Local\Microsoft\WindowsApps;C:\Users\artma\.dotnet\tools;C:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jre1.8.0_51\bin
+JRE paths:	;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Microchip\xc8\v2.40\bin;C:\Program Files\Microsoft Network Monitor 3\;C:\Program Files\Git\cmd;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Users\artma\AppData\Local\Microsoft\WindowsApps;C:\Users\artma\.dotnet\tools;C:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jre1.8.0_51\bin
+Check launcher:	C:\Program Files (x86)\VMware\VMware Workstation\bin\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microchip\xc8\v2.40\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft Network Monitor 3\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft SQL Server\110\Tools\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Users\artma\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\artma\.dotnet\tools\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jre1.8.0_51\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jre1.8.0_51\bin\javac.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\19.0.1
+Version string: 1.019.000_001 / 64-Bit (OK)
+Check launcher:	C:\Program Files\Java\jdk-19\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-19\bin\javac.exe (OK)
+Match:		1.019.000_001
+Runtime used:	1.019.000_001 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-19\bin\javaw.exe
+Launcher args:	-jar "D:\MyJavaProjects\Snake\Snake.exe"
+Args length:	40/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	D:\MyJavaProjects\Snake\Snake.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.008.000_051
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Microchip\xc8\v2.40\bin;C:\Program Files\Microsoft Network Monitor 3\;C:\Program Files\Git\cmd;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Users\artma\AppData\Local\Microsoft\WindowsApps;C:\Users\artma\.dotnet\tools;C:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jre1.8.0_51\bin
+JRE paths:	;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Microchip\xc8\v2.40\bin;C:\Program Files\Microsoft Network Monitor 3\;C:\Program Files\Git\cmd;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Users\artma\AppData\Local\Microsoft\WindowsApps;C:\Users\artma\.dotnet\tools;C:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jre1.8.0_51\bin
+Check launcher:	C:\Program Files (x86)\VMware\VMware Workstation\bin\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microchip\xc8\v2.40\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft Network Monitor 3\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft SQL Server\110\Tools\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Users\artma\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\artma\.dotnet\tools\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jre1.8.0_51\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jre1.8.0_51\bin\javac.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\19.0.1
+Version string: 1.019.000_001 / 64-Bit (OK)
+Check launcher:	C:\Program Files\Java\jdk-19\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-19\bin\javac.exe (OK)
+Match:		1.019.000_001
+Runtime used:	1.019.000_001 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-19\bin\javaw.exe
+Launcher args:	-jar "D:\MyJavaProjects\Snake\Snake.exe"
+Args length:	40/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	D:\MyJavaProjects\Snake\Snake.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.008.000_051
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Microchip\xc8\v2.40\bin;C:\Program Files\Microsoft Network Monitor 3\;C:\Program Files\Git\cmd;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Users\artma\AppData\Local\Microsoft\WindowsApps;C:\Users\artma\.dotnet\tools;C:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jre1.8.0_51\bin
+JRE paths:	;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Microchip\xc8\v2.40\bin;C:\Program Files\Microsoft Network Monitor 3\;C:\Program Files\Git\cmd;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Users\artma\AppData\Local\Microsoft\WindowsApps;C:\Users\artma\.dotnet\tools;C:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin;C:\Program Files\Java\jre1.8.0_51\bin
+Check launcher:	C:\Program Files (x86)\VMware\VMware Workstation\bin\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microchip\xc8\v2.40\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft Network Monitor 3\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft SQL Server\110\Tools\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Users\artma\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\artma\.dotnet\tools\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.2.4\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jre1.8.0_51\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jre1.8.0_51\bin\javac.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\19.0.1
+Version string: 1.019.000_001 / 64-Bit (OK)
+Check launcher:	C:\Program Files\Java\jdk-19\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-19\bin\javac.exe (OK)
+Match:		1.019.000_001
+Runtime used:	1.019.000_001 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-19\bin\javaw.exe
+Launcher args:	-jar "D:\MyJavaProjects\Snake\Snake.exe"
+Args length:	40/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	D:\MyJavaProjects\Snake\Snake.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.008.000_051
+Java max ver:	
+JRE paths:	jre1.8.0_51
+Check launcher:	D:\MyJavaProjects\Snake\jre1.8.0_51\bin\javaw.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\19.0.1
+Version string: 1.019.000_001 / 64-Bit (OK)
+Check launcher:	C:\Program Files\Java\jdk-19\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-19\bin\javac.exe (OK)
+Match:		1.019.000_001
+Runtime used:	1.019.000_001 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-19\bin\javaw.exe
+Launcher args:	-jar "D:\MyJavaProjects\Snake\Snake.exe"
+Args length:	40/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	D:\MyJavaProjects\Snake\Snake.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.008.000_051
+Java max ver:	
+JRE paths:	jre1.8.0_51
+Check launcher:	D:\MyJavaProjects\Snake\jre1.8.0_51\bin\javaw.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\19.0.1
+Version string: 1.019.000_001 / 64-Bit (OK)
+Check launcher:	C:\Program Files\Java\jdk-19\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-19\bin\javac.exe (OK)
+Match:		1.019.000_001
+Runtime used:	1.019.000_001 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-19\bin\javaw.exe
+Launcher args:	-jar "D:\MyJavaProjects\Snake\Snake.exe"
+Args length:	40/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	D:\MyJavaProjects\Snake\Snake.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.008.000_051
+Java max ver:	
+JRE paths:	jre1.8.0_51
+Check launcher:	D:\MyJavaProjects\Snake\jre1.8.0_51\bin\javaw.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\19.0.1
+Version string: 1.019.000_001 / 64-Bit (OK)
+Check launcher:	C:\Program Files\Java\jdk-19\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-19\bin\javac.exe (OK)
+Match:		1.019.000_001
+Runtime used:	1.019.000_001 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-19\bin\javaw.exe
+Launcher args:	-jar "D:\MyJavaProjects\Snake\Snake.exe"
+Args length:	40/32768 chars
+Exit code:	0
