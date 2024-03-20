@@ -1,29 +1,36 @@
 package game;
 
-import GameImages.Icons;
+import gameimages.Icons;
 import java.util.LinkedList;
+import java.util.Random;
 
 import static game.Game.stayInFrame;
 import static game.Unit.UNIT_SIZE;
 
 public class AppleController {
-    static public LinkedList<Unit> apples = new LinkedList<>();
-    static public void generateApple(Snake snake){
+    private AppleController(){}
+    private static final Random rn = new Random();
+    public static LinkedList<Unit> apples = new LinkedList<>();
+
+    public static void generateApple(Snake snake){
         boolean collisionFlag = true;
-        int X, Y;
-        loop: do{
-            X = stayInFrame((int)(Math.random() * 100) * UNIT_SIZE);
-            Y = stayInFrame((int)(Math.random() * 100) * UNIT_SIZE);
+        int x = 0;
+        int y = 0;
+        while(collisionFlag){
+            x = stayInFrame(rn.nextInt(100) * UNIT_SIZE);
+            y = stayInFrame(rn.nextInt(100) * UNIT_SIZE);
+            collisionFlag = false;
             for(Unit unit : snake.body){
-                if(unit.x == X && unit.y == Y){
-                    continue loop;
+                if (unit.x == x && unit.y == y) {
+                    collisionFlag = true;
+                    break;
                 }
             }
-            collisionFlag = false;
-        }while(collisionFlag);
-        apples.add(new Unit(X, Y, Icons.appleIcon));
+        }
+        apples.add(new Unit(x, y, Icons.appleIcon));
     }
-    static public boolean checkForApple(int x, int y){
+
+    public static boolean checkForApple(int x, int y){
         for(int i = 0; i < apples.size(); i++){
             if(x == apples.get(i).x && y == apples.get(i).y){
                 apples.remove(i);
@@ -32,7 +39,8 @@ public class AppleController {
         }
         return false;
     }
-    static public void clear(){
+
+    public static void clear(){
         apples.clear();
     }
 }

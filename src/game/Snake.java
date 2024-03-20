@@ -1,6 +1,6 @@
 package game;
 
-import GameImages.Icons;
+import gameimages.Icons;
 
 import java.awt.*;
 import java.util.ArrayList;

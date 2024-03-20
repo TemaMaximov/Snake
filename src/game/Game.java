@@ -1,7 +1,6 @@
 package game;
 
-import gamePanel.GamePanel;
-import restartPanel.RestartPanel;
+import gamepanel.GamePanel;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;
@@ -14,15 +13,12 @@ import static java.awt.event.KeyEvent.*;
 
 public class Game implements ActionListener{
     //Размеры поля игры
-    static public final int MAP_SIZE = 240;
+    public static final int MAP_SIZE = 240;
     //Паузы между движением змейки, миллисекунды
     Timer timer = new Timer(200, this);
     Snake snake = new Snake();
     int pressedKey = VK_RIGHT;
-    public GamePanel gamePanel = new GamePanel();
-    static final public RestartPanel restartPanel = new RestartPanel();
-    public Game(){
-    }
+    public final GamePanel gamePanel = new GamePanel();
     //Новая игра
     public void startNewGame(){
         snake.resurrect();
@@ -36,17 +32,16 @@ public class Game implements ActionListener{
                 super.keyPressed(e);
                 int c = e.getKeyCode();
                 assert c == VK_LEFT || c == VK_DOWN || c == VK_RIGHT || c == VK_UP;
-                if(pressedKey != c) {
-                    if (Direction.opposite(Objects.requireNonNull(Direction.keyCodeToDirection(pressedKey))) != Direction.keyCodeToDirection(c)) {
+                if(pressedKey != c && Direction.opposite(Objects.requireNonNull(Direction.keyCodeToDirection(pressedKey))) != Direction.keyCodeToDirection(c)) {
                         pressedKey = e.getKeyCode();
                         snake.turn(Direction.keyCodeToDirection(e.getKeyCode()));
-                    }
                 }
             }
         });
         timer.start();
     }
-    static public int stayInFrame(int x){
+
+    public static int stayInFrame(int x){
         return (MAP_SIZE + x) % MAP_SIZE;
     }
     @Override
@@ -62,16 +57,6 @@ public class Game implements ActionListener{
                 snake.move();
                 gamePanel.repaint();
             } else snake.die();
-        }else{
-            if(restartPanel.buttonPushed){
-                restartPanel.buttonPushed = false;
-                restartPanel.setVisible(false);
-                gamePanel.setVisible(true);
-                startNewGame();
-            }else {
-                gamePanel.setVisible(false);
-                restartPanel.setVisible(true);
-            }
         }
     }
 }

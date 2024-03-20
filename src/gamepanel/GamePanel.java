@@ -1,4 +1,4 @@
-package gamePanel;
+package gamepanel;
 
 import game.Snake;
 import game.Unit;

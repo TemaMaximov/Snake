@@ -4,7 +4,7 @@ import javax.swing.*;
 import java.awt.*;
 
 public class Unit {
-    static public final int UNIT_SIZE = 16;
+    public static final int UNIT_SIZE = 16;
     public int x;
     public int y;
     private Image image;

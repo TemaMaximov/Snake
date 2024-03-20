@@ -5,7 +5,8 @@ import static java.awt.event.KeyEvent.*;
 
 public enum Direction {
     LEFT, UP, RIGHT, DOWN;
-    static public Direction opposite(Direction dir){
+
+    public static Direction opposite(Direction dir){
         switch(dir){
             case LEFT -> {
                 return RIGHT;
@@ -24,7 +25,8 @@ public enum Direction {
             }
         }
     }
-    static public Direction keyCodeToDirection(int e){
+
+    public static Direction keyCodeToDirection(int e){
         switch(e){
             case VK_LEFT -> {return LEFT;}
             case VK_RIGHT -> {return RIGHT;}

@@ -1,3 +1,5 @@
+package main;
+
 import game.Game;
 import javax.swing.*;
 import java.awt.*;
@@ -29,10 +31,6 @@ static final int WINDOW_HEIGHT = 300;
         //добавление панели игры на основной фрейм
         game.gamePanel.setSize(MAP_SIZE, MAP_SIZE);
         mainFrame.add(game.gamePanel);
-        //Добавление панели рестарта
-        Game.restartPanel.setSize(MAP_SIZE, MAP_SIZE);
-        mainFrame.add(Game.restartPanel);
-        //
         mainFrame.setVisible(true);
     }
 
