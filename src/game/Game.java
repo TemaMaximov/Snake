@@ -30,12 +30,7 @@ public class Game implements ActionListener{
             @Override
             public void keyPressed(KeyEvent e){
                 super.keyPressed(e);
-                int c = e.getKeyCode();
-                assert c == VK_LEFT || c == VK_DOWN || c == VK_RIGHT || c == VK_UP;
-                if(pressedKey != c && Direction.opposite(Objects.requireNonNull(Direction.keyCodeToDirection(pressedKey))) != Direction.keyCodeToDirection(c)) {
-                        pressedKey = e.getKeyCode();
-                        snake.turn(Direction.keyCodeToDirection(e.getKeyCode()));
-                }
+                snake.turn(Direction.keyCodeToDirection(e.getKeyCode()));
             }
         });
         timer.start();

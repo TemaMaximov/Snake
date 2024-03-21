@@ -8,7 +8,7 @@ import static game.Game.MAP_SIZE;
 
 public class Main {
     //Размеры окна, константы
-static final int WINDOW_WIDTH = 300;
+static final int WINDOW_WIDTH = 256;
 static final int WINDOW_HEIGHT = 300;
 
     public static void main(String[] args){

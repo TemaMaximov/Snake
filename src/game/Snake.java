@@ -58,7 +58,8 @@ public class Snake {
     }
     //Смена направления движения змеи
     public void turn(Direction direction){
-        this.turningsQueue.offer(direction);
+        if (direction != null && (!turningsQueue.isEmpty() && turningsQueue.peek() != direction && turningsQueue.peek() != Direction.opposite(direction) || currentDirection != direction && currentDirection != Direction.opposite(direction)))
+                turningsQueue.offer(direction);
     }
     //Движение змейки
     public void move(){
@@ -100,7 +101,7 @@ public class Snake {
         //Изменение картинки для шеи в случае поворота
         Direction direction = turningsQueue.poll();
         if(direction != null){
-            if(currentDirection != Direction.opposite(direction)) {
+            if(currentDirection != Direction.opposite(direction) && currentDirection != direction) {
                 neckFlag = currentDirection.toString() + direction;
                 currentDirection = direction;
                 switch (neckFlag) {

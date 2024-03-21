@@ -30,7 +30,10 @@ public class GamePanel extends JPanel {
     @Override
     protected void paintComponent(Graphics g) {
         super.paintComponent(g);
-        g.drawRect(0, 0, MAP_SIZE, MAP_SIZE);
+        g.setFont(new Font("default", Font.BOLD, 16));
+        g.setColor(Color.WHITE);
+        g.drawString("Score: " + (snake.size() - 6), 10, MAP_SIZE + 15);
+        g.drawLine(0, MAP_SIZE,MAP_SIZE, MAP_SIZE);
         for (int i = 0; i < snake.size(); i++) {
             g.drawImage(snake.getUnit(i).getImage(), snake.getUnit(i).x, snake.getUnit(i).y, this);
         }
