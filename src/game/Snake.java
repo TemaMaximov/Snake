@@ -58,7 +58,7 @@ public class Snake {
     }
     //Смена направления движения змеи
     public void turn(Direction direction){
-        if (direction != null && (!turningsQueue.isEmpty() && turningsQueue.peek() != direction && turningsQueue.peek() != Direction.opposite(direction) || currentDirection != direction && currentDirection != Direction.opposite(direction)))
+        if (direction != null && (!turningsQueue.isEmpty() && turningsQueue.peek() != direction && turningsQueue.peek() != Direction.opposite(direction) || turningsQueue.isEmpty() && currentDirection != direction && currentDirection != Direction.opposite(direction)))
                 turningsQueue.offer(direction);
     }
     //Движение змейки
