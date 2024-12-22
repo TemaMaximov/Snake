@@ -1,39 +1,39 @@
 
 v
-java:S1192y"TDefine a constant instead of duplicating this literal "vertical straight 1" 6 times.(ĞÍ–›ÿÿÿÿÿ8¯œÅ§æ1
+java:S1192k"TDefine a constant instead of duplicating this literal "vertical straight 1" 6 times.(ĞÍ–›ÿÿÿÿÿ8™­¦Ì¾2
 l
-java:S1192l"JDefine a constant instead of duplicating this literal "RIGHTDOWN" 4 times.(ëÀÕºÿÿÿÿÿ8°œÅ§æ1
+java:S1192^"JDefine a constant instead of duplicating this literal "RIGHTDOWN" 4 times.(ëÀÕºÿÿÿÿÿ8›­¦Ì¾2
 v
-java:S1192{"TDefine a constant instead of duplicating this literal "vertical straight 2" 4 times.(¹µŞƒşÿÿÿÿ8°œÅ§æ1
+java:S1192m"TDefine a constant instead of duplicating this literal "vertical straight 2" 4 times.(¹µŞƒşÿÿÿÿ8œ­¦Ì¾2
 k
-java:S1192m"IDefine a constant instead of duplicating this literal "DOWNLEFT" 4 times.(º²®´ùÿÿÿÿ8±œÅ§æ1
+java:S1192_"IDefine a constant instead of duplicating this literal "DOWNLEFT" 4 times.(º²®´ùÿÿÿÿ8ô®šÌ¾2
 j
-java:S1192m"HDefine a constant instead of duplicating this literal "RIGHTUP" 4 times.(º²®´ùÿÿÿÿ8²œÅ§æ1
+java:S1192_"HDefine a constant instead of duplicating this literal "RIGHTUP" 4 times.(º²®´ùÿÿÿÿ8ô®šÌ¾2
 r
-java:S1192w"VDefine a constant instead of duplicating this literal "horizontal straight 2" 4 times.(Àüõe8²œÅ§æ1
+java:S1192i"VDefine a constant instead of duplicating this literal "horizontal straight 2" 4 times.(Àüõe8Ÿ­¦Ì¾2
 g
-java:S1192o"JDefine a constant instead of duplicating this literal "DOWNRIGHT" 4 times.(˜õ±®8³œÅ§æ1
+java:S1192a"JDefine a constant instead of duplicating this literal "DOWNRIGHT" 4 times.(˜õ±®8õ®šÌ¾2
 f
-java:S1192n"IDefine a constant instead of duplicating this literal "LEFTDOWN" 4 times.(ñì½Ú8´œÅ§æ1
+java:S1192`"IDefine a constant instead of duplicating this literal "LEFTDOWN" 4 times.(ñì½Ú8õ®šÌ¾2
 i
-java:S1192l"GDefine a constant instead of duplicating this literal "UPLEFT" 4 times.(ëÀÕºÿÿÿÿÿ8µœÅ§æ1
+java:S1192^"GDefine a constant instead of duplicating this literal "UPLEFT" 4 times.(ëÀÕºÿÿÿÿÿ8 ­¦Ì¾2
 e
-java:S1192n"HDefine a constant instead of duplicating this literal "UPRIGHT" 4 times.(ñì½Ú8µœÅ§æ1
+java:S1192`"HDefine a constant instead of duplicating this literal "UPRIGHT" 4 times.(ñì½Ú8õ®šÌ¾2
 r
-java:S1192u"VDefine a constant instead of duplicating this literal "horizontal straight 1" 6 times.(ú 8¶œÅ§æ1
+java:S1192g"VDefine a constant instead of duplicating this literal "horizontal straight 1" 6 times.(ú 8£­¦Ì¾2
 d
-java:S1192o"GDefine a constant instead of duplicating this literal "LEFTUP" 4 times.(˜õ±®8¶œÅ§æ1
+java:S1192a"GDefine a constant instead of duplicating this literal "LEFTUP" 4 times.(˜õ±®8ö®šÌ¾2
 L
-java:S1066h"/Merge this if statement with the enclosing one.(ÌĞÄ÷8¼œÅ§æ1
+java:S1066Z"/Merge this if statement with the enclosing one.(ÌĞÄ÷8¦­¦Ì¾2
 R
-java:S1066±"/Merge this if statement with the enclosing one.(£»óüøÿÿÿÿ8ÀœÅ§æ1
+java:S1066¤"/Merge this if statement with the enclosing one.(£»óüøÿÿÿÿ8§­¦Ì¾2
 
-java:S1319"dThe type of "body" should be an interface such as "List" rather than the implementation "ArrayList".(æµ””8ÁœÅ§æ1
+java:S1319"dThe type of "body" should be an interface such as "List" rather than the implementation "ArrayList".(æµ””8ù®šÌ¾2
 m
-java:S1104"PMake body a static final constant or non-public and provide accessors if needed.(æµ””8ÅœÅ§æ1
+java:S1104"PMake body a static final constant or non-public and provide accessors if needed.(æµ””8ü®šÌ¾2
 t
-java:S3776A"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(œ€Íùÿÿÿÿ8©©Å§æ1
-C	java:S131k""Add a default case to this switch.(Ê£Ô¼ûÿÿÿÿ8·©Å§æ1
-C	java:S131t""Add a default case to this switch.(Ê£Ô¼ûÿÿÿÿ8¹©Å§æ1
-D	java:S131´""Add a default case to this switch.(Ê£Ô¼ûÿÿÿÿ8Ç©Å§æ1
-D	java:S131½""Add a default case to this switch.(Ê£Ô¼ûÿÿÿÿ8É©Å§æ1
+java:S37768"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(œ€Íùÿÿÿÿ8™¥¤Ì¾2
+E	java:S108b")Either remove or fill this block of code.(”ì­è8Ü²¦Ì¾2
+E	java:S108w")Either remove or fill this block of code.(”ì­è8á²¦Ì¾2
+F	java:S108¬")Either remove or fill this block of code.(”ì­è8í²¦Ì¾2
+D	java:S131±""Add a default case to this switch.(Ê£Ô¼ûÿÿÿÿ8ŞÌ±Ì¾2

@@ -1,7 +1,6 @@
 package game;
 
 import gamepanel.GamePanel;
-
 import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -11,16 +10,11 @@ import java.awt.event.KeyEvent;
 import static java.awt.event.KeyEvent.*;
 
 public class Game implements ActionListener{
-    //Размеры поля игры
     public static final int MAP_SIZE = 240;
-    //Паузы между движением змейки, миллисекунды
     Timer timer = new Timer(200, this);
     Snake snake = new Snake();
-    int pressedKey = VK_RIGHT;
     public final GamePanel gamePanel = new GamePanel();
-    //Новая игра
     public void startNewGame(){
-        snake.resurrect();
         AppleController.clear();
         AppleController.generateApple(snake);
         gamePanel.setApples(AppleController.apples);

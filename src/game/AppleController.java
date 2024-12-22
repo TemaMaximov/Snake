@@ -20,7 +20,7 @@ public class AppleController {
             x = stayInFrame(rn.nextInt(100) * UNIT_SIZE);
             y = stayInFrame(rn.nextInt(100) * UNIT_SIZE);
             collisionFlag = false;
-            for(Unit unit : snake.body){
+            for(Unit unit : snake.getBody()){
                 if (unit.x == x && unit.y == y) {
                     collisionFlag = true;
                     break;
